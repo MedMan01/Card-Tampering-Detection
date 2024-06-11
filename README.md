@@ -1,4 +1,4 @@
-# PAN Card Tampering Detection
+# Card Tampering Detection
 ## Overview
 This project is aimed at utilizing computer vision techniques to detect tampering or forgery in PAN (Permanent Account Number) cards. The primary objective is to aid various organizations in verifying the authenticity of PAN cards submitted by their employees, customers, or any other individuals.
 
